@@ -14,6 +14,4 @@ Each Teaser has a separate file, that can be run in Haskell to find the solution
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
